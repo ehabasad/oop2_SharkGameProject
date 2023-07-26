@@ -1,0 +1,6 @@
+configure_file ("levelnames.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("level1.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("level2.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("winLevel.txt" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("GOUDYSTO.TTF" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("font.TTF" ${CMAKE_BINARY_DIR} COPYONLY)
